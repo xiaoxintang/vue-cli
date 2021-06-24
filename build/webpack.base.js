@@ -52,7 +52,7 @@ module.exports = {
   plugins: [
     new VueLoaderPlugin(),
     new HtmlWebpackPlugin({
-      title: 'my vue cli project',
+      title: 'my vue cli project123',
       filename: 'index.html',
       template: 'src/index.template.html',
       meta: {
